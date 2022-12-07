@@ -1,0 +1,17 @@
+.main-container{
+    display: inline-block;
+    margin: 15px;
+    position: relative;
+}
+
+.text-container, h5{
+    height: 3rem;
+    width: 10.1rem;
+    color: black;
+    background-color: white;
+    display: block;
+    position: absolute;
+    top: 12rem;
+    
+    
+}
